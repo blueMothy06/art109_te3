@@ -1,0 +1,21 @@
+div {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+p {
+  font-size: 1.3em;
+  color: #EBECE4;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+   border-radius: 2%;
+}
+
+html {
+  background-color: black;
+  color: #EBECE4;
+}
